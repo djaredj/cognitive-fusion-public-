@@ -100,4 +100,4 @@ Full documents available at cognitivefusion.systems or upon request.
 
 *All submissions are original practitioner work by Dee Jared Johnson.*
 *Documents available at cognitivefusion.systems or upon request.*
-*cognitivefusion.systems | linkedin.com/in/djared | (801) 389-5081*
+*cognitivefusion.systems | github.com/djaredj/cognitive-fusion-public- | linkedin.com/in/djared | (801) 389-5081*

@@ -2,6 +2,7 @@
 ## Architect of Cognitive Fusion™ | AI Governance Practitioner
 
 **Location:** Salt Lake City, Utah
+**GitHub:** [github.com/djaredj/cognitive-fusion-public-](https://github.com/djaredj/cognitive-fusion-public-)
 **Website:** [cognitivefusion.systems](https://cognitivefusion.systems)
 **LinkedIn:** [linkedin.com/in/djared](https://linkedin.com/in/djared)
 **Publication:** [The Glasswing Translator](https://cognitivefusion.systems/insights)

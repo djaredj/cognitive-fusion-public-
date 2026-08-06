@@ -116,4 +116,4 @@ Full PR: MITRE ATLAS GitHub (PR open, reference available on request)
 
 *Cognitive Fusion™ constructs are common-law marks of Dee Jared Johnson.*
 *Framework content is original practitioner work. © 2026 Dee Jared Johnson.*
-*cognitivefusion.systems | linkedin.com/in/djared | (801) 389-5081*
+*cognitivefusion.systems | github.com/djaredj/cognitive-fusion-public- | linkedin.com/in/djared | (801) 389-5081*
