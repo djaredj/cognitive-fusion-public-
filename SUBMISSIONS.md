@@ -121,3 +121,14 @@ Full documents available at cognitivefusion.systems or upon request.
 
 *All submissions are original practitioner work by Dee Jared Johnson.*
 *cognitivefusion.systems | github.com/djaredj/cognitive-fusion-public- | linkedin.com/in/djared | (801) 389-5081*
+
+---
+
+### C12 — DoD CDAO Responsible AI Guidance
+**Submitted:** August 7, 2026
+**To:** cdao.rai@mail.mil
+**Subject:** Practitioner Input — DoD Responsible AI Toolkit: Evaluation Environment Integrity and Assurance Collapse
+**Summary:** Three additions for the RAI Toolkit — (1) Evaluation Environment Integrity module added to Reliable principle assessment with four proposed assessment questions. (2) Assurance Collapse as a named risk category in the Governable principle assessment. (3) Alignment with NIST AI RMF MEASURE 2.5 and MANAGE 2.4, and MITRE ATLAS AML.T0047 and AML.T0043 cross-references. Connects July 2026 OpenAI and Anthropic disclosures directly to the RAI Toolkit's Reliable and Governable principles by name.
+**CF constructs:** CF-034 Assurance Collapse™, CF-031 Phantom Control™
+**ATLAS cross-reference:** AML.T0047, AML.T0043
+**Citation:** "Contributor to DoD CDAO Responsible AI Guidance"
