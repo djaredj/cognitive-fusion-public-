@@ -2,9 +2,9 @@
 ## Architect of Cognitive Fusion™ | AI Governance Practitioner
 
 **Location:** Salt Lake City, Utah
-**GitHub:** [github.com/djaredj/cognitive-fusion-public-](https://github.com/djaredj/cognitive-fusion-public-)
 **Website:** [cognitivefusion.systems](https://cognitivefusion.systems)
 **LinkedIn:** [linkedin.com/in/djared](https://linkedin.com/in/djared)
+**GitHub:** [github.com/djaredj/cognitive-fusion-public-](https://github.com/djaredj/cognitive-fusion-public-)
 **Publication:** [The Glasswing Translator](https://cognitivefusion.systems/insights)
 
 ---
@@ -13,11 +13,17 @@
 
 I build AI governance architecture for organizations deploying agentic systems faster than they can govern them.
 
-30+ years at CTO/COO level across enterprise technology operations including partnerships with Canon, Disney, Warner Bros., University of Utah, and Utah State University. Field Deployment Engineer team leadership (2012–2017) across VMware channel partner deployments — 10x ROI in enterprise deal closure through FDE deployment across design, implementation, and advisory roles.
+30+ years at CTO/COO-level across enterprise technology operations including partnerships with Canon, Disney, Warner Bros., University of Utah, and Utah State University. COO, Apex Real Estate — 40% operational efficiency gain. Patents pending in large-format 3D printing (2017–18).
 
-I am the author of the **Cognitive Fusion™ governance framework** — a practitioner-built response-layer taxonomy identifying five AI failure modes and three governance conditions, each mapped to MITRE ATLAS techniques, NIST AI RMF functions, and active regulatory requirements.
+**Physical AI governance:** Full-lifecycle leadership of three robotic manufacturing scale-production facilities (Industry 2.0/3.0) — scope identification through implementation, operations, QA validation, and post-production ROI optimization. Remained in situ after full production started. This is governance of physical AI systems in live industrial environments, not consulting-at-a-distance.
 
-**Claude Partner Network member, Anthropic** — engineering and deploying Anthropic agentic governance infrastructure at Registered tier implementation authority.
+**VMware/MarketStar (2012–2017):** $154M quota over 7 years at 30:1 ROI. Led two FDE teams (6 partner-facing, 3 internal). 10x ROI in enterprise deal closure. Built MarketStar's only engineer cross-training program — VMware VCP traded for Cisco CCNA, CDCP, AWS CSA.
+
+**Life sciences:** Enterprise regulated Data Lakehouse advisory — GxP / 21 CFR Part 11 governance architecture, CSA transition, FDA/EMA inspection-grade data lineage.
+
+I am the author of the **Cognitive Fusion™ governance framework** — including CF-DOC-001 Reversibility Doctrine and CF-DOC-002 Edge Governance — and the **Triune Command™ architecture** (Biological Core / Synthetic Layer / Agentic Swarm governance stack under Bounded Autonomy). I defined the **Chief AI Intelligence Officer (CAIO)** role — deliberately distinct from "Chief AI Officer" — as the governance function that owns the accountability chain between AI capability deployment and organizational decision consequence.
+
+**Claude Partner Network member, Anthropic** — engineering and deploying Anthropic agentic governance infrastructure at Registered tier implementation authority. Advisory expert networks including GLG and Catalant since 2016.
 
 ---
 
@@ -43,9 +49,9 @@ Full doctrinal analysis: [The Glasswing Translator — Issue 013](https://cognit
 
 See [CITABLE_CONTRIBUTIONS.md](./CITABLE_CONTRIBUTIONS.md) for the full dated record.
 
-**Current credential stack:**
+**Current credential stack (August 2026):**
 
-> 8 proposed mitigations to MITRE ATLAS. Contributor to NIST AI Standards Zero Draft, NIST AI RMF Playbook (GOVERN 1.7, MAP 1.5, MEASURE 2.5, MANAGE 2.4), NRC Radiation Protection Framework, OWASP Agentic AI Top 10, and COSAiS (NIST SP 800-53 AI Control Overlays). Respondent to AI AGENT Act Discussion Draft (Senator Warner) and FTC Policy Statement on AI Accuracy Suppression. Claude Partner Network member, Anthropic. Author of the Cognitive Fusion™ governance framework.
+> 8 proposed mitigations to MITRE ATLAS. Contributor to NIST AI Standards Zero Draft, NIST AI RMF Playbook (GOVERN 1.7, MAP 1.5, MEASURE 2.5, MANAGE 2.4), NRC Radiation Protection Framework (Tracking: msh-rnno-mdxs), NIST SP 800-53 AI Control Overlays (COSAiS), OWASP Agentic AI Top 10 (ASI06 case study + mitigation), NIST Human-Robot Interaction Performance Standards, and NIST 2026 AI/ML Smart Manufacturing Roadmap. Respondent to AI AGENT Act Discussion Draft (Senator Warner), FTC Policy Statement on AI Accuracy Suppression. Claude Partner Network member, Anthropic. Author of the Cognitive Fusion™ governance framework.
 
 ---
 
@@ -55,15 +61,17 @@ See [FRAMEWORK_OVERVIEW.md](./FRAMEWORK_OVERVIEW.md) for construct definitions, 
 
 ---
 
+## Submissions
+
+See [SUBMISSIONS.md](./SUBMISSIONS.md) for the full record of public submissions with tracking numbers and confirmation status.
+
+---
+
 ## Published Work
 
 - **The Glasswing Translator** — AI governance intelligence publication at cognitivefusion.systems/insights
-- **NIST AI RMF Playbook Submission** — Proposed additions to GOVERN 1.7, MAP 1.5, MEASURE 2.5, MANAGE 2.4 (August 2026)
-- **NIST AI Documentation Zero Draft Comment** — Evaluation environment integrity fields for AI documentation templates (August 2026)
-- **FTC AI Accuracy Policy Statement Comment** — Phantom Control as a distinct accuracy suppression category (August 2026)
-- **NRC Radiation Protection Framework Comment** — AI governance gap in graded dose management framework (August 2026)
-- **AI AGENT Act Comment** — Evaluation environment integrity and Bounded Autonomy gaps in FTC registry framework (August 2026)
-- **OWASP Agentic AI Top 10 Case Study** — Evaluation environment compromise as ASI06 supply chain attack vector (August 2026)
+- **Issue 013: Assurance Collapse (CF-034)** — July 2026 OpenAI/Anthropic disclosures and the evaluation environment integrity gap
+- **Issue 011: Execution Drift (CF-032)** — OSTP "Science: A New Golden Age" and the agentic governance gap
 
 ---
 
