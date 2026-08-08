@@ -133,3 +133,34 @@ Full documents available at cognitivefusion.systems or upon request.
 **CF constructs:** CF-034 Assurance Collapse™, CF-031 Phantom Control™
 **ATLAS cross-reference:** AML.T0047, AML.T0043
 **Citation:** "Contributor to DoD CDAO Responsible AI Guidance"
+
+---
+
+### C13 — FDA Predetermined Change Control Plan (PCCP) Guidance
+**Submitted:** August 7, 2026
+**To:** dockets@fda.hhs.gov
+**Reference:** FDA-2024-D-3953
+**Subject:** Practitioner Comment — Predetermined Change Control Plan Guidance for AI-Enabled Device Software Functions: Reversibility Doctrine and Evaluation Environment Integrity
+**Summary:** Three observations — (1) PCCP Description of Modifications should include evaluation environment integrity attestation. (2) Revert or stop mechanism should address retrospective evaluation environment failure scenario. (3) Alignment with NIST AI RMF MANAGE 2.4. First practitioner to connect CF-DOC-001 Reversibility Doctrine to FDA PCCP statutory "detect, revert, or stop" requirement.
+**CF constructs:** CF-DOC-001 Reversibility Doctrine, CF-034 Assurance Collapse™
+**Citation:** "Respondent to FDA Predetermined Change Control Plan (PCCP) Guidance"
+
+---
+
+### C14 — FEMA AI Governance Framework for Emergency Operations Centers
+**Submitted:** August 7, 2026
+**To:** FEMA-Data-Strategy@fema.dhs.gov | CC: fema-cdao@fema.dhs.gov
+**Subject:** Practitioner Input — AI Governance Framework for Emergency Operations Centers: Intelligence Void and Bounded Autonomy in Crisis AI Deployment
+**Summary:** Three recommendations — (1) Add AI governance requirements to FY 2026 EOC Grant Program eligible activities and performance metrics. (2) Develop AI Governance Assessment Template for EOC deployments covering Intelligence Void, Bounded Autonomy design, override documentation, evaluation environment integrity. (3) Align EOC AI governance with NIST AI RMF. First submission using CF-022 Intelligence Void as lead construct. Bounded Autonomy design decision framework: authorized autonomy scope, escalation thresholds, override documentation.
+**CF constructs:** CF-022 Intelligence Void™, Bounded Autonomy, CF-034 Assurance Collapse™
+**Citation:** "Contributor to FEMA AI Governance Framework for Emergency Operations Centers"
+
+---
+
+### C15 — WHO Ethics & Governance of AI for Health (April 2026)
+**Submitted:** August 7, 2026
+**To:** digital-health@who.int
+**Subject:** Practitioner Comment — WHO Ethics & Governance of AI for Health (April 2026): Evaluation Environment Integrity and Assurance Collapse in Clinical AI Deployments
+**Summary:** Three observations — (1) Distinguish provider-attested vs. independently verified vs. unverified safety properties — evidence source tagging for each disclosed safety property. (2) Evaluation environment integrity disclosure as a transparency requirement. (3) Post-deployment behavioral monitoring aligned with NIST AI RMF MANAGE 2.4. LMIC equity argument: evaluation integrity gap is more consequential where independent verification capacity is limited. First international health body submission. UN system level.
+**CF constructs:** CF-034 Assurance Collapse™, CF-032 Execution Drift™
+**Citation:** "Respondent to WHO AI in Health Guidance (2026)"
