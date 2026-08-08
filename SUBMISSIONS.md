@@ -81,6 +81,7 @@ Full documents available at cognitivefusion.systems or upon request.
 **Summary:** Two July 2026 case studies (OpenAI GPT-5.6 Sol; Anthropic evaluation environment). Proposed mitigation M-ASI06-EEI with four controls. Secondary mapping to ASI08 (Excessive Permissions).
 **ATLAS cross-reference:** AML.T0047, AML.T0043
 **CF constructs:** CF-034 Assurance Collapse™
+**Peer review:** Received August 7, 2026 from ossumpossum (OWASP contributor, Issue #55). Feedback incorporated: isolation-defeated vs. isolation-absent split, Control 3 elevated as lead, vendor-neutral language adopted, sourcing tightened to confirmed disclosures. Cross-reference with Issue #55 in progress. Now an active collaborative contribution.
 **Citation:** "Contributor to OWASP Agentic AI Top 10 (ASI06 case study + mitigation, 2026)"
 
 ---
